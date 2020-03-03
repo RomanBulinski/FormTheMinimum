@@ -1,0 +1,2 @@
+# FormTheMinimum
+Code Wars kata
